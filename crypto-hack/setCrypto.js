@@ -18,7 +18,7 @@
                 alert('Crypto added!');
             };
 })();
-
+'allow pating
 
 
 
